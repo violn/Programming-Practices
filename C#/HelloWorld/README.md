@@ -1,1 +1,1 @@
-Standard ""Hello World!"" for C#.
+Standard "Hello World!" for C#.

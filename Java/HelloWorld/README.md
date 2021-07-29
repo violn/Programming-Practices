@@ -1,1 +1,1 @@
-Standard ""Hello World!"" for Java.
+Standard "Hello World!" for Java.

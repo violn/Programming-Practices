@@ -1,0 +1,1 @@
+Gets the instances of a starting letter from unique words.

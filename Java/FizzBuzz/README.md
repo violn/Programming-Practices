@@ -1,0 +1,1 @@
+FizzBuzz because why not? Also not that hard for whatever reason.

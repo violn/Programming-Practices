@@ -1,0 +1,1 @@
+FizzBuzz but way easier to implement more numbers.
